@@ -61,7 +61,6 @@
    mask: none;
 }
 
-/* 24.12.2019 fix */
 #app-mount .listItem-2P_4kh + div:not(.listItem-2P_4kh)
 
 #app-mount .messageGroupBlockedBtn-1PBBh- {background: rgba(0, 0, 0, 0.6)}
@@ -70,7 +69,6 @@
 .avatar-17mtNa foreignObject {
     mask: none;
 }
-
 .da-homeIcon {
     background: url(https://i.imgur.com/KL45CBs.gif) center no-repeat;
     background-size: 40px; z-index: 2;
