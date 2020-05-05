@@ -1,4 +1,4 @@
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
+@import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
 :root {
     --accentcolor: 153,51,51; 	/* default: 190,78,180 discord: 114,137,218 bd-blue: 58,113,193*/
 }
