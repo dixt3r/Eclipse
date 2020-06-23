@@ -1,18 +1,5 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
-@import url(https://gibbubdstuff.github.io/RadialStatus/base.css);
 
-:root {
-   --rs-small-spacing: 1px;  /* spacing between avatar and status */
-  --rs-large-spacing: 1px;  /* spacing between avatar and status for user popouts & modals/profiles */
-  --rs-width: 2px;  /* Width/thickness of status border */
-  --rs-avatar-shape: 50%;  /* 50% for round - 0% for square */
-  --rs-online-color: #43b581;  /* color for online status */
-  --rs-idle-color: #faa61a;  /* color for idle status */
-  --rs-dnd-color: #f04747;  /* color for dnd status */
-  --rs-offline-color: #636b75;  /* color for offline status */
-  --rs-streaming-color: #643da7;  /* color for streaming status */
-  --rs-invisible-color: #747f8d;  /* color for invisible status - Note this will only show for your own invisibility */
-}
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN,
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
   justify-content: flex-start;
