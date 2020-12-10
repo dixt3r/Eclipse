@@ -55,14 +55,14 @@ background-color: rgba(24, 28, 37, 0);
   background: #1b1f25;
 }
 
-.theme-dark .modeSelected-346R90 .content-1x5b-n, 
+/*.theme-dark .modeSelected-346R90 .content-1x5b-n, 
 .theme-dark .modeSelected-346R90:hover .content-1x5b-n {
     background-color: #1b1f25;
 }
 
 .theme-dark .selected-aXhQR6 .layout-2DM8Md {
     background-color: #1b1f25;
-}
+}*/
 
 .theme-dark .section-2gLsgF {
   background: #22262e;
@@ -111,14 +111,14 @@ background-color: rgba(24, 28, 37, 0);
   background: #cbd0d6;
 }
 
-.theme-light .modeSelected-346R90 .content-1x5b-n, 
+/*.theme-light .modeSelected-346R90 .content-1x5b-n, 
 .theme-light .modeSelected-346R90:hover .content-1x5b-n {
     background-color: #cbd0d6;
 }
 
 .theme-light .selected-aXhQR6 .layout-2DM8Md {
     background-color: #cbd0d6;
-}
+}*/
 
 .theme-light .section-2gLsgF {
   background: #e2e8f0;
