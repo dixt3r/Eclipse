@@ -1,17 +1,4 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
-@import url("https://raw.githack.com/LuckFire/BetterChannelIndicators/main/src/source.css");
-
-:root {
-/* Better channel indicators */
-    --unread-badge: rgba(255, 255, 255, 0.6);
-    --unread-bg: rgba(255, 255, 255, 0.01);
-    --selected-badge: rgb(112, 135, 215);
-    --selected-bg: rgba(112, 135, 215, 0.1);
-    --selected-bg-hover: rgba(112, 135, 215, 0.18);
-    --hovered-bg: rgba(79, 84, 92, 0.25);
-    --bg-rounding: 0 50px 50px 0;
-    --border-info: 2px solid;
-}
 
 /* 10/12/2020 - Dark mode */
 .theme-dark {
@@ -55,14 +42,14 @@ background-color: rgba(24, 28, 37, 0);
   background: #1b1f25;
 }
 
-/*.theme-dark .modeSelected-346R90 .content-1x5b-n, 
+.theme-dark .modeSelected-346R90 .content-1x5b-n, 
 .theme-dark .modeSelected-346R90:hover .content-1x5b-n {
     background-color: #1b1f25;
 }
 
 .theme-dark .selected-aXhQR6 .layout-2DM8Md {
     background-color: #1b1f25;
-}*/
+}
 
 .theme-dark .section-2gLsgF {
   background: #22262e;
@@ -111,14 +98,14 @@ background-color: rgba(24, 28, 37, 0);
   background: #cbd0d6;
 }
 
-/*.theme-light .modeSelected-346R90 .content-1x5b-n, 
+.theme-light .modeSelected-346R90 .content-1x5b-n, 
 .theme-light .modeSelected-346R90:hover .content-1x5b-n {
     background-color: #cbd0d6;
 }
 
 .theme-light .selected-aXhQR6 .layout-2DM8Md {
     background-color: #cbd0d6;
-}*/
+}
 
 .theme-light .section-2gLsgF {
   background: #e2e8f0;
