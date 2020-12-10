@@ -1,0 +1,17 @@
+/**
+ * @name Eclipse
+ * @author dixter
+ * @version 3
+ * @description Thank you for trying out Eclipse!
+ * @source https://github.com/dixt3r/Eclipse
+ * @authorLink https://discordhub.com/profile/286880624877371392
+ * @authorId 286880624877371392
+*/
+
+@import url(https://dixt3r.github.io/Eclipse/base.css);
+
+/* accentcolor should be in RGB code, accentcolor2 in HEX */
+:root {
+  --accentcolor: 153,51,51;
+  --accentcolor2: #993333;
+}
