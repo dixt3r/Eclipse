@@ -22,12 +22,19 @@ background-color: rgba(24, 28, 37, 0);
   background-color: #1b1f25;
 }
 
-.theme-dark .uploadModal-2ifh8j, .theme-dark .scroller-3BxosC {
+.theme-dark .uploadModal-2ifh8j, 
+.theme-dark .scroller-3BxosC, 
+.theme-dark .peopleList-3c4jOR {
   background: #22262e;
 }
 
 .theme-dark .footer-3mqk7D {
   background: #1b1f25;
+}
+
+.theme-dark .modeSelected-346R90 .content-1x5b-n, 
+.theme-dark .modeSelected-346R90:hover .content-1x5b-n {
+    background-color: #1b1f25;
 }
 
 .theme-light {
@@ -36,6 +43,7 @@ background-color: rgba(24, 28, 37, 0);
 --background-tertiary: #cbd0d6;
 --deprecated-store-bg: #e2e8f0;
 }
+
 .theme-light .modal-yWgWj-,
 .theme-light .footer-3rDWdC,
 .theme-light .accountList-33MS45 {
@@ -52,12 +60,19 @@ background-color: rgba(24, 28, 37, 0);
   background-color: #cbd0d6;
 }
 
-.theme-light .uploadModal-2ifh8j, .theme-light .scroller-3BxosC {
+.theme-light .uploadModal-2ifh8j, 
+.theme-light .scroller-3BxosC,
+.theme-light .peopleList-3c4jOR {
   background: #e2e8f0;
 }
 
 .theme-light .footer-3mqk7D {
   background: #cbd0d6;
+}
+
+.theme-light .modeSelected-346R90 .content-1x5b-n, 
+.theme-light .modeSelected-346R90:hover .content-1x5b-n {
+    background-color: #cbd0d6;
 }
 
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN,
