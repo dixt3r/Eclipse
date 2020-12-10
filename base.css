@@ -13,6 +13,15 @@
 background-color: rgba(24, 28, 37, 0);
 }
 
+.theme-dark .headerNormal-T_seeN {
+  background: #1b1f25;
+}
+
+.theme-dark .body-3iLsc4, 
+.theme-dark .footer-1fjuF6 {
+  background: #22262e;
+}
+
 .theme-dark .scrollableContainer-2NUZem,
 .theme-dark .panels-j1Uci_,
 .theme-dark .connectionHeader-2MDqhu,
@@ -54,6 +63,15 @@ background-color: rgba(24, 28, 37, 0);
 .theme-light .footer-3rDWdC,
 .theme-light .accountList-33MS45 {
 background-color: rgba(24, 28, 37, 0);
+}
+
+.theme-light .headerNormal-T_seeN {
+  background: #cbd0d6;
+}
+
+.theme-light .body-3iLsc4, 
+.theme-light .footer-1fjuF6 {
+  background: #e2e8f0;
 }
 
 .theme-light .scrollableContainer-2NUZem,
