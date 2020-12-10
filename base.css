@@ -51,6 +51,10 @@ background-color: rgba(24, 28, 37, 0);
     background-color: #1b1f25;
 }
 
+.theme-dark .section-2gLsgF {
+  background: #22262e;
+}
+
 /* 10/12/2020 - Light mode */
 .theme-light {
 --background-primary: #e2e8f0;
@@ -101,6 +105,10 @@ background-color: rgba(24, 28, 37, 0);
 
 .theme-light .selected-aXhQR6 .layout-2DM8Md {
     background-color: #cbd0d6;
+}
+
+.theme-light .section-2gLsgF {
+  background: #e2e8f0;
 }
 
 /* Settings revamp */
