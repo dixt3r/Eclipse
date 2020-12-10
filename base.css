@@ -1,5 +1,6 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
+/* 10/12/2020 - Dark mode */
 .theme-dark {
 --background-primary: #22262e;
 --background-secondary: #22262e;
@@ -37,6 +38,11 @@ background-color: rgba(24, 28, 37, 0);
     background-color: #1b1f25;
 }
 
+.theme-dark .selected-aXhQR6 .layout-2DM8Md {
+    background-color: #1b1f25;
+}
+
+/* 10/12/2020 - Light mode */
 .theme-light {
 --background-primary: #e2e8f0;
 --background-secondary: #e2e8f0;
@@ -75,6 +81,11 @@ background-color: rgba(24, 28, 37, 0);
     background-color: #cbd0d6;
 }
 
+.theme-light .selected-aXhQR6 .layout-2DM8Md {
+    background-color: #cbd0d6;
+}
+
+/* Settings revamp */
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN,
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
   justify-content: flex-start;
