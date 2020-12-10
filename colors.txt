@@ -1,6 +1,15 @@
+RGB IS USED FOR ACCENTCOLOR, HEX FOR ACCENTCOLOR2!!!
+
 +-------------------------+
-[1] Default: 114, 137, 218
-[2] BetterDiscord blue: 58, 113, 193
-[3] Maroon: 153, 51, 51
-[4] Cyan: 0, 179, 119
+[1] Default: 
+rgb: 114, 137, 218
+hex: #7289DA
+
+[2] BetterDiscord blue: 
+rgb: 58, 113, 193
+hex: #3A71C1
+
+[3] Maroon: 
+rgb: 153, 51, 51 
+hex: #993333
 +-------------------------+
