@@ -1,5 +1,65 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
+.theme-dark {
+--background-primary: #22262e;
+--background-secondary: #22262e;
+--background-tertiary: #1b1f25;
+--deprecated-store-bg: #22262e;
+}
+.theme-dark .modal-yWgWj-,
+.theme-dark .footer-3rDWdC,
+.theme-dark .accountList-33MS45 {
+background-color: rgba(24, 28, 37, 0);
+}
+
+.theme-dark .scrollableContainer-2NUZem,
+.theme-dark .panels-j1Uci_,
+.theme-dark .connectionHeader-2MDqhu,
+.theme-dark .background-1QDuV2,
+.theme-dark .codeRedemptionRedirect-1wVR4b,
+.theme-dark .attendeeCTA-3ZZQWt,
+.theme-dark .formNotice-2_hHWR {
+  background-color: #1b1f25;
+}
+
+.theme-dark .uploadModal-2ifh8j, .theme-dark .scroller-3BxosC {
+  background: #22262e;
+}
+
+.theme-dark .footer-3mqk7D {
+  background: #1b1f25;
+}
+
+.theme-light {
+--background-primary: #e2e8f0;
+--background-secondary: #e2e8f0;
+--background-tertiary: #cbd0d6;
+--deprecated-store-bg: #e2e8f0;
+}
+.theme-light .modal-yWgWj-,
+.theme-light .footer-3rDWdC,
+.theme-light .accountList-33MS45 {
+background-color: rgba(24, 28, 37, 0);
+}
+
+.theme-light .scrollableContainer-2NUZem,
+.theme-light .panels-j1Uci_,
+.theme-light .connectionHeader-2MDqhu,
+.theme-light .background-1QDuV2,
+.theme-light .codeRedemptionRedirect-1wVR4b,
+.theme-light .attendeeCTA-3ZZQWt,
+.theme-light .formNotice-2_hHWR {
+  background-color: #cbd0d6;
+}
+
+.theme-light .uploadModal-2ifh8j, .theme-light .scroller-3BxosC {
+  background: #e2e8f0;
+}
+
+.theme-light .footer-3mqk7D {
+  background: #cbd0d6;
+}
+
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN,
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
   justify-content: flex-start;
