@@ -205,9 +205,3 @@ background-color: rgba(24, 28, 37, 0);
 .channelTextArea-rNsIhG .buttonContainer-28fw2U .button-38aScr {
     display:block !important;
 }
-
-/* 10/12/2020 - Folder color fixed */
-
-.expandedFolderIconWrapper-1xLaU- svg path {
-  fill: var(--accentcolor2);
-}
