@@ -3,7 +3,7 @@ Eclipse is a customizable theme for [Powercord](https://github.com/powercord-org
 
 ## Features
 - Customizable color scheme (read colors.txt for recommended RGB and HEX codes)
-- Light & dark mode are darker
+- Changed dark mode color scheme.
 
 ## Installation
 ###### For Powercord:
