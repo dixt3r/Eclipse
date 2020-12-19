@@ -83,9 +83,16 @@ background-color: rgba(24, 28, 37, 0);
 .theme-light .nameTag-3uD-yy.canCopy-2VBT7N,
 .theme-light .tree-3tCaw8,
 .theme-light .button-14-BFJ[role="switch"],
+.theme-light .container-1r6BKw.themed-ANHk51,
+.theme-light .nowPlayingColumn-2sl4cE,
+.theme-light .peopleList-3c4jOR,
+.theme-light .scroller-1JbKMe,
+.theme-light .searchBar-6Kv8R2,
+
+
 .theme-light .side-8zPYf6 .item-PXvHYJ:not([aria-controls="Appearance-tab"]),
 .theme-light .side-8zPYf6 .separator-gCa7yv,
-.theme-light .header-2RyJ0Y:nth-child(0n + 1),
+.theme-light .header-2RyJ0Y:not(:nth-child(13)),
 .theme-light .socialLinks-3jqNFy,
 .theme-light .info-1VyQPT,
 .theme-light .defaultColor-1_ajX0:not(:nth-child(1)),
@@ -101,19 +108,24 @@ background-color: rgba(24, 28, 37, 0);
 {
   display:none;
 }
+
 .theme-light .container-3w7J-x,
 .theme-light .panels-j1Uci_,
 .theme-light .guilds-1SWlCJ, 
-.theme-light .sidebarRegionScroller-3MXcoP{
+.theme-light .sidebarRegionScroller-3MXcoP,
+.theme-light .privateChannels-1nO12o {
     background-color: white;
 }
+
 .theme-light .marginTop40-i-78cZ,
 .theme-light .defaultMarginh5-2mL-bP{
     margin: 0px;
 }
+
 .theme-light .h5-18_1nd {
     visibility: hidden;
 }
+
 .theme-light .button-14-BFJ:not([role="switch"]),
 .theme-light .side-8zPYf6 .item-PXvHYJ[aria-selected="false"],
 .theme-light .item-26Dhrx[aria-checked="false"],
@@ -122,11 +134,13 @@ background-color: rgba(24, 28, 37, 0);
     animation-duration: 2s;
     animation-iteration-count: infinite;
 }
+
 @keyframes hint {
     0% {background-color: transparent; color: #4f5660;}
     50% {background-color: red; color: white;}
     100% {background-color: transparent; color: #4f5660}
 }
+
 @keyframes contrast {
     0% {fill: currentColor;}
     50% {fill: white;}
