@@ -72,68 +72,14 @@ background-color: rgba(24, 28, 37, 0);
 }
 
 /* 10/12/2020 - Light mode */
-.theme-light {
---background-primary: #e2e8f0;
---background-secondary: #e2e8f0;
---background-tertiary: #cbd0d6;
---deprecated-store-bg: #e2e8f0;
-}
-
-.theme-light .modal-yWgWj-,
-.theme-light .footer-3rDWdC,
-.theme-light .accountList-33MS45 {
-background-color: rgba(24, 28, 37, 0);
-}
-
-.theme-light .headerNormal-T_seeN {
-  background: #cbd0d6;
-}
-
-.theme-light .body-3iLsc4, 
-.theme-light .footer-1fjuF6 {
-  background: #e2e8f0;
-}
-
-.theme-light .scrollableContainer-2NUZem,
-.theme-light .panels-j1Uci_,
-.theme-light .connectionHeader-2MDqhu,
-.theme-light .background-1QDuV2,
-.theme-light .codeRedemptionRedirect-1wVR4b,
-.theme-light .attendeeCTA-3ZZQWt,
-.theme-light .formNotice-2_hHWR {
-  background-color: #cbd0d6;
-}
-
-.theme-light .uploadModal-2ifh8j, 
-.theme-light .scroller-3BxosC,
-.theme-light .peopleList-3c4jOR {
-  background: #e2e8f0;
-}
-
-.theme-light .footer-3mqk7D {
-  background: #cbd0d6;
-}
-
-.theme-light .modeSelected-346R90 .content-1x5b-n, 
-.theme-light .modeSelected-346R90:hover .content-1x5b-n {
-    background-color: #cbd0d6;
-}
-
-.theme-light .selected-aXhQR6 .layout-2DM8Md {
-    background-color: #cbd0d6;
-}
-
-.theme-light .section-2gLsgF {
-  background: #e2e8f0;
-}
-
-.theme-light .jumpToPresentBar-G1R9s6 {
-    background-color: #cbd0d6;
-}
-
-.theme-light {
-    --scrollbar-auto-track: #e2e8f0;
-    --scrollbar-auto-thumb: #cbd0d6;
+.theme-light .scroller-RmtA4e,
+.theme-light .scroller-2TZvBN,
+.theme-light .header-2V-4Sw,
+.theme-light .title-3qD0b-,
+.theme-light .members-1998pB,
+.theme-light .scroller-2LSbBU,
+.theme-light .form-2fGMdU {
+  display:none;
 }
 
 /* Settings revamp */
