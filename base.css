@@ -1,5 +1,10 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
+:root {
+  --accentcolor: 153,51,51;
+  --accentcolor2: #993333;
+}
+
 /* 10/12/2020 - Dark mode */
 .theme-dark {
 --background-primary: #22262e;
