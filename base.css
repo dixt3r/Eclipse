@@ -1,8 +1,13 @@
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css);
 
+/* Color scheme */
 :root {
   --accentcolor: 153,51,51;
   --accentcolor2: #993333;
+}
+
+.theme-dark .progressBar-3u8FBM {
+    background-color: var(--accentcolor2) !important;
 }
 
 /* 10/12/2020 - Dark mode */
