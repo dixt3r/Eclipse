@@ -2,8 +2,7 @@
 Eclipse is a customizable theme for [Powercord](https://github.com/powercord-org/powercord) and [BetterDiscord](https://github.com/rauenzi/BetterDiscordApp).
 
 ## Features
-- Customizable color scheme (read colors.txt for recommended RGB and HEX codes)
-- Changed dark mode color scheme.
+- Default style with changed color scheme
 
 ## Installation
 ###### For Powercord:
