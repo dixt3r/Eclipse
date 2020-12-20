@@ -9,8 +9,3 @@
 */
 
 @import url(https://dixt3r.github.io/Eclipse/base.css);
-
-/* accentcolor should be in RGB code */
-:root {
-  --accentcolor: 153,51,51;
-}
