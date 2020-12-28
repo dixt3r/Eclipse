@@ -93,6 +93,23 @@ background-color: rgba(24, 28, 37, 0);
     --scrollbar-auto-thumb: #1b1f25;
 }
 
+.theme-dark .friendsEmpty-1K9B4k,
+.theme-dark .header-1TKi98,
+.theme-dark .content-191BxG,
+.theme-dark .thin-1ybCId {
+  background-color: #22262e;
+}
+
+.theme-dark .inspector-S2gM3e,
+.theme-dark .card-3RzMcx,
+.theme-dark .footer-2gL1pp {
+  background-color: #1b1f25;
+}
+
+.theme-dark .searchAnswer-3Dz2-q, .theme-dark .searchFilter-2ESiM3 {
+    background-color: #22262e;
+}
+
 /* 10/12/2020 - Light mode */
 .theme-light .scroller-RmtA4e,
 .theme-light .scroller-2TZvBN,
