@@ -110,6 +110,10 @@ background-color: rgba(24, 28, 37, 0);
     background-color: #22262e;
 }
 
+.theme-dark .scroller-1d5FgU {
+  background-color: var(--background-primary)
+}
+
 .theme-dark .modal-2VIBV8,
 .theme-dark .modalSize-cqUaws,
 .theme-dark .message-2qRu38 {
