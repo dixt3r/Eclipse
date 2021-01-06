@@ -110,6 +110,22 @@ background-color: rgba(24, 28, 37, 0);
     background-color: #22262e;
 }
 
+.theme-dark .modal-2VIBV8,
+.theme-dark .modalSize-cqUaws,
+.theme-dark .message-2qRu38 {
+  background-color: #22262e;
+}
+
+.theme-dark .header-3msK0M,
+.theme-dark .footer-1NnaNd,
+.theme-dark .templatesList-2E6rTe {
+  background-color: #fff !important;
+}
+
+.theme-dark .inspector-S2gM3e {
+  background-color: #1b1f25;
+}
+
 /* 10/12/2020 - Light mode */
 .theme-light .scroller-RmtA4e,
 .theme-light .scroller-2TZvBN,
