@@ -139,6 +139,10 @@ background-color: rgba(24, 28, 37, 0);
   background-color: var(--accentcolor2)
 }
 
+.theme-dark .addInputWrapper-1BOZ3d {
+  background-color: var(--background-primary)
+}
+
 /* 10/12/2020 - Light mode */
 .theme-light .scroller-RmtA4e,
 .theme-light .scroller-2TZvBN,
