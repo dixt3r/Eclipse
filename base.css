@@ -110,6 +110,21 @@ background-color: rgba(24, 28, 37, 0);
     background-color: #22262e;
 }
 
+.theme-dark .categoryHeader-O1zU94 {
+  background-color: var(--background-primary);
+}
+
+.theme-dark .animatedContainer-1NSq4T {
+  background-color: rgba(0,0,0,0) !important;
+}
+
+.theme-dark .bar-AokMp3,
+.theme-dark .input-2VB9rf,
+.theme-dark .contentDefault-16dKSY .content-1jxX5g,
+.theme-dark .main-3auUui {
+  background-color: var(--background-tertiary);
+}
+
 .theme-dark .scroller-1d5FgU {
   background-color: var(--background-primary)
 }
