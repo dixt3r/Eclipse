@@ -10,13 +10,11 @@
     background-color: var(--accentcolor2) !important;
 }
 
-/* 10/12/2020 - Dark mode 
+/* 10/12/2020 - Dark mode */
 .theme-dark {
---background-primary: #22262e;
---background-secondary: #22262e;
---background-tertiary: #1b1f25;
---deprecated-store-bg: #22262e;
+--background-color1: #22262e;
 }
+/*
 .theme-dark .modal-yWgWj-,
 .theme-dark .footer-3rDWdC,
 .theme-dark .accountList-33MS45 {
