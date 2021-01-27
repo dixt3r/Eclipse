@@ -13,10 +13,12 @@
 /* 10/12/2020 - Dark mode */
 .theme-dark {
 	--background-color1: #2f3136;
+	--background-color2: #36393f;
 }
 
 .theme-dark {
-	--scrollbar-auto-track: var(--background-color1);
+	--scrollbar-auto-thumb: var(--background-color1);
+	--scrollbar-auto-track: var(--background-color2);
 }
 
 /*
