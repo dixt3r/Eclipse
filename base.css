@@ -22,6 +22,7 @@
   --scrollbar-auto-track: var(--bg-light);
 }
 
+.theme-dark .members-1998pB,
 .theme-dark .members-1998pB>div {
   background-color: transparent;
 }
