@@ -12,8 +12,8 @@
 
 /* 10/12/2020 - Dark mode */
 .theme-dark {
-  --bg-light: #2f3136;
-  --bg-medium: #36393f;
+  --bg-light: #36393f;
+  --bg-medium: #2f3136;
   --bg-dark: #202225;
 }
 
