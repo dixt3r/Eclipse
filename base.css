@@ -12,13 +12,17 @@
 
 /* 10/12/2020 - Dark mode */
 .theme-dark {
-	--background-color1: #2f3136;
-	--background-color2: #36393f;
+  --bg-light: #2f3136;
+  --bg-medium: #36393f;
 }
 
 .theme-dark {
-	--scrollbar-auto-thumb: var(--background-color1);
-	--scrollbar-auto-track: var(--background-color2);
+  --scrollbar-auto-thumb: var(--bg-medium);
+  --scrollbar-auto-track: var(--bg-light);
+}
+
+.theme-dark .members-1998pB>div {
+  background-color: transparent;
 }
 
 /*
