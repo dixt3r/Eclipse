@@ -10,7 +10,7 @@
     background-color: var(--accentcolor2) !important;
 }
 
-/* 10/12/2020 - Dark mode */
+/* 10/12/2020 - Dark mode 
 .theme-dark {
 --background-primary: #22262e;
 --background-secondary: #22262e;
@@ -155,7 +155,7 @@ background-color: rgba(24, 28, 37, 0);
 
 .theme-dark .addInputWrapper-1BOZ3d {
   background-color: var(--background-primary)
-}
+}*/
 
 /* 10/12/2020 - Light mode */
 .theme-light .scroller-RmtA4e,
