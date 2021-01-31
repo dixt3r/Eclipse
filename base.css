@@ -30,6 +30,10 @@
   background-color: transparent;
 }
 
+.theme-dark .scroller-3BxosC {
+  background-color: var(--bg-light);
+}
+
 /*
 .theme-dark .modal-yWgWj-,
 .theme-dark .footer-3rDWdC,
