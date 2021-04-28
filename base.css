@@ -253,7 +253,7 @@ background-color: rgba(24, 28, 37, 0);
     100% {fill: currentColor;}
 }
 
-/* Settings revamp */
+/* Settings revamp
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN,
 .standardSidebarView-3F1I7i .sidebarRegion-VFTUkN .sidebarRegionScroller-3MXcoP {
   justify-content: flex-start;
@@ -311,7 +311,7 @@ background-color: rgba(24, 28, 37, 0);
 .premium-settings .premium-header,
 .premium-settings .features-vNGwn7 {
   max-width: 98%;
-}
+} */
 
 /* 10/05/2020 - Removed gift icon. */
 .channelTextArea-rNsIhG .buttons-3JBrkn .button-38aScr[tabindex="0"]:first-child,
